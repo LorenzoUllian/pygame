@@ -6,9 +6,9 @@ O astronauta corre sozinho pela Terra, pela Lua e por Marte. O jogador precisa p
 
 ## Integrantes
 
-- NOME 1
-- NOME 2
-- NOME 3
+- Caio Takeda Marquesini
+- Lorenzo Cálio Ullian
+- Bernardo Niederauer Prates
 
 ## Como rodar
 
@@ -42,7 +42,3 @@ A estrutura segue o handout de pygame da disciplina. As partes novas são:
 - Queda rápida: segurando a seta para baixo no ar, a gravidade fica mais forte.
 - Velocidade que aumenta com os pontos, como no jogo do dinossauro do Google.
 - Sequências intercaladas: quando um obstáculo de pular e um de abaixar vêm seguidos (ou dois de abaixar), o segundo vem logo em seguida. Para pular e logo depois abaixar, é preciso usar a queda rápida.
-
-## Uso de IA
-
-RASCUNHO, AJUSTEM: O código, as imagens e os sons foram gerados com o Claude (IA da Anthropic), seguindo o handout de pygame da disciplina, e depois revisados pelo grupo. A conversa com a IA está no anexo/link: LINK.
